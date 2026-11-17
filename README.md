@@ -85,7 +85,7 @@ Completed repairs (expected 2): 2
 
 ## Bonus: interactive console using `Scanner`
 
-After your required tests work, create a new client called `Main-Input.java` and let a user interact with the shop. For example:
+After your required tests work, create a new client called `MainInput.java` and let a user interact with the shop. For example:
 
 1. Ask for a bicycle owner and model.
 2. Ask how many miles the bicycle has been ridden.
